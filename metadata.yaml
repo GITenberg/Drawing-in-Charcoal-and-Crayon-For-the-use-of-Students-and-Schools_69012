@@ -1,0 +1,25 @@
+_repo: Drawing-in-Charcoal-and-Crayon-For-the-use-of-Students-and-Schools_69012
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fowler, Frank
+    gutenberg_agent_id: '8729'
+    url: http://www.gutenberg.org/2009/agents/8729
+description: ''
+gutenberg_issued: '2022-09-19'
+identifiers:
+  gutenberg: '69012'
+language: en
+pgterms:marc905: 20220212190904fowler
+pgterms:marc906: '1885'
+pgterms:marc907: US
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: United States :Cassell Publishing Company,1885.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Drawing in Charcoal and Crayon: For the use of Students and Schools'
+url: http://www.gutenberg.org/ebooks/69012
