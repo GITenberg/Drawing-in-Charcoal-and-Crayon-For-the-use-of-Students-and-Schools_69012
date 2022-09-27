@@ -1,11 +1,16 @@
 _repo: Drawing-in-Charcoal-and-Crayon-For-the-use-of-Students-and-Schools_69012
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69012-h/images/i_cover.jpg
 creator:
   author:
     agent_name: Fowler, Frank
     gutenberg_agent_id: '8729'
     url: http://www.gutenberg.org/2009/agents/8729
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69012#Drawing-in-Charcoal-and-Crayon-For-the-use-of-Students-and-Schools
 gutenberg_issued: '2022-09-19'
 identifiers:
   gutenberg: '69012'
